@@ -1,0 +1,348 @@
+.root {
+    -fx-background-color: #A0c0c0;
+    -fx-background-image: url('/UsedA.png');
+}
+.group{
+     -fx-background-color: #E57373;
+}
+#image1{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+
+#image2{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+
+#image3{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+
+#image4{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+
+
+#image5{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+
+#image6{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+
+#image7{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+
+#image8{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+
+#image9{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+
+#image10{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+
+#image11{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+
+#image12{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+
+#image13{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+
+#image14{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+#image15{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+
+#image16{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+
+#image17{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+
+#image18{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+
+#image19{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+#image20{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+#image21{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+#image22{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+
+#image23{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+
+#image24{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+#image25{
+        -fx-border-width:10;
+        -fx-border-radius:40px;
+        -fx-background-radius:20px;
+        -fx-cursor: hand;
+        -fx-background-color:#E57373;
+        -fx-border-color: #c6c9c8;
+        -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+#shadowmake{
+    -fx-border-width:10;
+    -fx-border-radius:40px;
+    -fx-background-radius:20px;
+    -fx-cursor: hand;
+    -fx-background-color:#E57373;
+    -fx-border-color: #c6c9c8;
+    -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+#shadowmake1{
+    -fx-border-width:10;
+    -fx-border-radius:40px;
+    -fx-background-radius:20px;
+    -fx-cursor: hand;
+    -fx-background-color:#E57373;
+    -fx-border-color: #c6c9c8;
+    -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+#shadowmake2{
+    -fx-border-width:10;
+    -fx-border-radius:40px;
+    -fx-background-radius:20px;
+    -fx-cursor: hand;
+    -fx-background-color:#E57373;
+    -fx-border-color: #c6c9c8;
+    -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+#shadowmake3{
+    -fx-border-width:10;
+    -fx-border-radius:40px;
+    -fx-background-radius:20px;
+    -fx-cursor: hand;
+    -fx-background-color:#E57373;
+    -fx-border-color: #c6c9c8;
+    -fx-effect: dropshadow(three-pass-box,black,10,0,2,1);
+}
+
+#shadowmake4{
+    -fx-border-width:10;
+    -fx-border-radius:40px;
+    -fx-background-radius:20px;
+    -fx-cursor: hand;
+    -fx-background-color:#E57373;
+    -fx-border-color: #c6c9c8;
+    -fx-effect: dropshadow(three-pass-box,black,10,0,0,1);
+}
+
+#shadowmake5{
+    -fx-border-width:10;
+    -fx-border-radius:40px;
+    -fx-background-radius:20px;
+    -fx-cursor: hand;
+    -fx-background-color:#E57373;
+    -fx-border-color: #c6c9c8;
+    -fx-effect: dropshadow(three-pass-box,black,10,0,0,1);
+}
+
+#shadowmake6{
+    -fx-border-width:10;
+    -fx-border-radius:40px;
+    -fx-background-radius:20px;
+    -fx-cursor: hand;
+    -fx-background-color:#E57373;
+    -fx-border-color: #c6c9c8;
+    -fx-effect: dropshadow(three-pass-box,black,10,0,0,1);
+}
+
+
+
